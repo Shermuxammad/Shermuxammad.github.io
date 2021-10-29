@@ -1,10 +1,11 @@
 html,body,.wrapper{
-    background: #f7f7f7;
+    background-image: url(SpartaGym4.jpg);
+    background-size: 100% 100%;
+    background-position: 0px 70px;
 }
 .steps {
     margin-top: -41px;
     display: inline-block;
-    float: right;
     font-size: 16px
 }
 .step {
